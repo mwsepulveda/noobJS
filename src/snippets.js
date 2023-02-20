@@ -1,6 +1,6 @@
 /*** Snippets for JS noobs ***/
 
-/* HTTP (TODO: Update methods to use Axios rather than XHR) */
+/* HTTP (TODO: Update these methods to use Axios rather than XHR) */
 
 var XMLHttpRequest = require('xhr2');
 var xhr = new XMLHttpRequest();
@@ -47,3 +47,9 @@ const newServer = () => {
   server.listen(port, host)
 
 }
+/***************************************************************************************************/
+
+/* HTML */
+
+// Add class to HTML element
+const addClass = (el, className) => el.classList.add(className);
