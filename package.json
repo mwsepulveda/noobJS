@@ -1,0 +1,21 @@
+{
+  "name": "noobjs",
+  "version": "1.0.0",
+  "description": "Snippets of code for JS noobs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwsepulveda/noobJS.git"
+  },
+  "author": "Michael Sepulveda",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mwsepulveda/noobJS/issues"
+  },
+  "homepage": "https://github.com/mwsepulveda/noobJS#readme",
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
