@@ -32,12 +32,14 @@ jobs:
           cache: 'npm'
           cache-dependency-path: package-lock.json
 
-      - name: Lint
-        run: |
-          npm run lint
-      - name: Install dependencies
-        run: |
-          npm install
-      - name: Test
-        run: |
-          npm run test
+    - name: Install dependencies
+      run: |
+        npm install
+    - name: Lint
+      run: |
+        npm run lint
+    - name: Test
+      run: |
+        npm run test
+    - name: Upload coverage
+      uses: codecov/codecov-action@v3
