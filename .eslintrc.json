@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": false,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "plugins": ["jest"],
+  "extends": ["eslint:recommended", "plugin:jest/recommended", "prettier"],
+  "rules": {}
+}
