@@ -12,3 +12,7 @@ Library to make learning and using JS quicker for new users
 ## Overview
 
 noobJS intends to provide a library that will decrease the time it takes to write recurring code blocks, especially those encountered by beginners who are learning and getting used to the javascript language.
+
+## Installation
+
+Please ensure you have Node.js 16.x and npm installed on your system. That's all you need! Run `npm install` to complete the process. You'll now be able to use all of the included methods/snippets.
