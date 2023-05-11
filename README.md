@@ -12,6 +12,8 @@ Library to make learning and using JS quicker for new users
 
 [![npm](https://img.shields.io/npm/v/react)](https://www.npmjs.com/package/noobiejs)
 
+[![GitHub Pages Website](https://img.shields.io/badge/GitHub%20Pages%20Website-Link-ff9b4)](https://mwsepulveda.github.io/noobJS/)
+
 ## Overview
 
 noobJS intends to provide a library that will decrease the time it takes to write recurring code blocks, especially those encountered by beginners who are learning and getting used to the javascript language.
